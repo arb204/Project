@@ -1,3 +1,5 @@
+ALL CODE IN PROJECT FILE
+
 What's implemented:
   GCP cluster communication from base application.
   Inverted index
